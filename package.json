@@ -153,7 +153,7 @@
     "nock": "^13.2.2",
     "nodemon": "^2.0.15",
     "npm-merge-driver-install": "^3.0.0",
-    "postcss": "^8.4.6",
+    "postcss": "^8.4.31",
     "prettier": "^2.5.1",
     "replace": "^1.2.1",
     "rimraf": "^3.0.2",
